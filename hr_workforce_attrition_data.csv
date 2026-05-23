@@ -1,0 +1,251 @@
+EmployeeID,Age,Gender,MaritalStatus,Department,JobRole,MonthlyIncome,OverTime,JobSatisfaction,YearsAtCompany,Attrition
+EMP001,50,Female,Divorced,Research & Development,Laboratory Technician,6770,No,4,11,No
+EMP002,36,Female,Married,Human Resources,Human Resources,5759,No,3,4,No
+EMP003,29,Male,Divorced,Sales,Manager,10531,No,4,11,No
+EMP004,42,Male,Married,Sales,Sales Representative,4564,No,2,10,No
+EMP005,40,Male,Divorced,Research & Development,Laboratory Technician,5426,No,3,4,No
+EMP006,44,Male,Single,Research & Development,Research Scientist,6215,No,3,7,No
+EMP007,32,Male,Divorced,Research & Development,Healthcare Representative,4320,No,3,5,No
+EMP008,32,Female,Married,Sales,Sales Executive,5151,Yes,4,7,No
+EMP009,45,Male,Single,Research & Development,Laboratory Technician,6092,No,2,1,Yes
+EMP010,57,Female,Divorced,Sales,Manager,13349,No,4,2,No
+EMP011,45,Female,Single,Sales,Manager,12159,No,3,5,No
+EMP012,24,Female,Single,Sales,Manager,9933,No,3,11,No
+EMP013,43,Male,Single,Research & Development,Healthcare Representative,6538,Yes,3,12,Yes
+EMP014,23,Male,Married,Research & Development,Manufacturing Director,10260,No,3,9,No
+EMP015,45,Male,Single,Research & Development,Research Scientist,6086,Yes,3,2,No
+EMP016,51,Male,Single,Research & Development,Laboratory Technician,6113,No,3,5,No
+EMP017,59,Female,Divorced,Research & Development,Manufacturing Director,12998,Yes,1,5,Yes
+EMP018,23,Male,Married,Research & Development,Research Scientist,3897,No,3,1,Yes
+EMP019,42,Male,Married,Research & Development,Manufacturing Director,11773,No,1,6,No
+EMP020,54,Female,Divorced,Research & Development,Laboratory Technician,7675,No,3,11,No
+EMP021,33,Male,Divorced,Research & Development,Research Scientist,4454,No,3,1,No
+EMP022,43,Female,Married,Research & Development,Laboratory Technician,5133,Yes,3,5,No
+EMP023,46,Female,Single,Research & Development,Laboratory Technician,6915,Yes,3,0,Yes
+EMP024,48,Female,Married,Research & Development,Research Scientist,6235,No,1,2,No
+EMP025,49,Male,Married,Research & Development,Research Scientist,6085,Yes,3,1,No
+EMP026,37,Male,Married,Sales,Sales Executive,5979,No,2,6,No
+EMP027,36,Female,Married,Research & Development,Healthcare Representative,5077,No,3,13,No
+EMP028,24,Male,Single,Research & Development,Research Scientist,5333,Yes,4,3,No
+EMP029,58,Female,Married,Research & Development,Research Scientist,7478,No,1,7,No
+EMP030,28,Female,Divorced,Research & Development,Research Scientist,4496,No,3,5,No
+EMP031,42,Female,Divorced,Research & Development,Research Scientist,6938,Yes,3,11,Yes
+EMP032,30,Male,Single,Sales,Manager,10597,No,3,9,No
+EMP033,39,Male,Single,Human Resources,Manager,11991,No,2,3,No
+EMP034,25,Female,Married,Research & Development,Laboratory Technician,4649,No,2,4,No
+EMP035,46,Male,Single,Research & Development,Research Scientist,6830,No,4,12,No
+EMP036,35,Male,Single,Sales,Manager,12080,No,3,12,No
+EMP037,30,Male,Married,Research & Development,Manufacturing Director,10916,No,2,14,No
+EMP038,47,Female,Divorced,Research & Development,Manufacturing Director,11883,No,3,14,No
+EMP039,23,Female,Single,Research & Development,Laboratory Technician,4569,No,3,8,No
+EMP040,41,Male,Divorced,Research & Development,Research Scientist,5441,No,1,6,No
+EMP041,49,Male,Single,Research & Development,Healthcare Representative,7426,No,3,9,No
+EMP042,28,Female,Single,Sales,Manager,10808,Yes,3,13,No
+EMP043,29,Female,Married,Research & Development,Laboratory Technician,4637,Yes,4,13,No
+EMP044,56,Male,Divorced,Sales,Sales Representative,7072,Yes,2,8,No
+EMP045,35,Male,Divorced,Research & Development,Laboratory Technician,4626,No,3,6,No
+EMP046,38,Female,Married,Sales,Manager,11054,Yes,3,11,No
+EMP047,57,Female,Married,Research & Development,Research Scientist,7660,No,3,0,Yes
+EMP048,25,Female,Married,Research & Development,Healthcare Representative,4171,Yes,3,11,Yes
+EMP049,23,Female,Single,Research & Development,Manufacturing Director,9816,No,3,7,No
+EMP050,27,Male,Divorced,Research & Development,Manufacturing Director,10928,Yes,4,3,No
+EMP051,25,Male,Married,Research & Development,Research Scientist,5092,No,4,2,No
+EMP052,50,Female,Single,Sales,Sales Executive,6859,No,3,13,No
+EMP053,39,Female,Married,Research & Development,Research Scientist,6118,No,4,12,No
+EMP054,47,Female,Divorced,Sales,Sales Representative,5881,No,3,6,No
+EMP055,55,Female,Single,Research & Development,Research Scientist,6189,Yes,3,11,Yes
+EMP056,31,Male,Single,Research & Development,Manufacturing Director,11730,No,1,2,No
+EMP057,57,Male,Married,Sales,Sales Executive,6898,Yes,4,7,No
+EMP058,35,Female,Married,Sales,Manager,11174,No,1,5,No
+EMP059,52,Female,Married,Research & Development,Healthcare Representative,7324,Yes,2,4,No
+EMP060,36,Female,Married,Research & Development,Laboratory Technician,5658,No,1,3,No
+EMP061,29,Female,Divorced,Research & Development,Healthcare Representative,5047,No,3,7,No
+EMP062,35,Female,Single,Research & Development,Healthcare Representative,6382,Yes,2,7,No
+EMP063,44,Male,Divorced,Research & Development,Manufacturing Director,11698,Yes,2,11,No
+EMP064,42,Male,Divorced,Sales,Manager,12323,Yes,1,0,Yes
+EMP065,37,Male,Single,Research & Development,Research Scientist,5488,No,1,8,No
+EMP066,39,Male,Single,Sales,Sales Executive,5754,No,3,13,No
+EMP067,45,Male,Divorced,Research & Development,Manufacturing Director,12864,Yes,3,4,Yes
+EMP068,47,Male,Single,Research & Development,Research Scientist,6513,No,3,3,Yes
+EMP069,46,Male,Married,Research & Development,Laboratory Technician,6449,Yes,3,5,No
+EMP070,50,Male,Married,Research & Development,Healthcare Representative,7036,No,3,5,No
+EMP071,36,Female,Married,Human Resources,Manager,11197,Yes,1,1,No
+EMP072,22,Male,Divorced,Sales,Sales Executive,3840,No,2,7,No
+EMP073,46,Male,Single,Research & Development,Laboratory Technician,5657,Yes,4,6,Yes
+EMP074,28,Female,Married,Research & Development,Research Scientist,3756,No,3,0,No
+EMP075,30,Male,Single,Research & Development,Healthcare Representative,5928,No,2,4,Yes
+EMP076,45,Male,Single,Sales,Manager,11548,No,3,11,No
+EMP077,22,Male,Married,Research & Development,Manufacturing Director,10149,Yes,2,5,No
+EMP078,29,Female,Married,Human Resources,Manager,10681,No,3,3,No
+EMP079,45,Male,Single,Research & Development,Research Scientist,6253,No,1,1,No
+EMP080,32,Female,Single,Research & Development,Research Scientist,5467,Yes,1,12,Yes
+EMP081,38,Male,Single,Human Resources,Manager,11970,No,1,13,No
+EMP082,29,Male,Single,Research & Development,Manufacturing Director,10528,No,4,3,No
+EMP083,56,Male,Divorced,Sales,Sales Representative,6896,Yes,4,0,No
+EMP084,56,Male,Single,Research & Development,Healthcare Representative,7121,No,2,6,No
+EMP085,54,Female,Single,Research & Development,Manufacturing Director,12695,No,2,1,No
+EMP086,26,Female,Divorced,Research & Development,Research Scientist,5383,No,4,12,No
+EMP087,49,Female,Married,Research & Development,Manufacturing Director,12665,Yes,2,1,Yes
+EMP088,28,Male,Married,Human Resources,Manager,11107,Yes,2,8,Yes
+EMP089,30,Male,Married,Human Resources,Human Resources,5231,No,4,4,No
+EMP090,29,Female,Single,Research & Development,Laboratory Technician,5406,No,2,1,No
+EMP091,33,Male,Single,Sales,Sales Representative,5230,No,3,10,No
+EMP092,55,Male,Single,Human Resources,Human Resources,6251,No,4,8,No
+EMP093,54,Male,Married,Research & Development,Laboratory Technician,7019,No,3,8,No
+EMP094,44,Male,Married,Sales,Manager,11694,No,1,0,No
+EMP095,45,Female,Married,Human Resources,Human Resources,5835,No,2,10,No
+EMP096,58,Female,Married,Research & Development,Manufacturing Director,13433,Yes,4,2,No
+EMP097,56,Female,Single,Research & Development,Research Scientist,7599,No,4,3,No
+EMP098,43,Male,Married,Research & Development,Manufacturing Director,11950,No,4,13,No
+EMP099,48,Male,Married,Research & Development,Healthcare Representative,6494,No,1,6,No
+EMP100,56,Male,Divorced,Sales,Sales Representative,7831,Yes,4,9,No
+EMP101,22,Male,Married,Research & Development,Manufacturing Director,10380,Yes,4,3,No
+EMP102,56,Male,Single,Research & Development,Manufacturing Director,14280,Yes,3,1,No
+EMP103,58,Female,Single,Sales,Sales Executive,7422,No,4,6,No
+EMP104,35,Female,Married,Research & Development,Laboratory Technician,4419,No,4,5,Yes
+EMP105,24,Male,Single,Research & Development,Manufacturing Director,10796,Yes,3,2,No
+EMP106,22,Female,Divorced,Research & Development,Laboratory Technician,4450,No,3,5,No
+EMP107,26,Female,Divorced,Research & Development,Healthcare Representative,5224,No,2,10,No
+EMP108,47,Male,Married,Research & Development,Manufacturing Director,12596,No,2,14,Yes
+EMP109,35,Female,Divorced,Research & Development,Manufacturing Director,11230,No,3,5,No
+EMP110,48,Male,Married,Research & Development,Laboratory Technician,5727,No,2,11,No
+EMP111,30,Male,Married,Research & Development,Manufacturing Director,10795,No,4,4,No
+EMP112,36,Male,Married,Sales,Sales Representative,4954,Yes,4,3,No
+EMP113,36,Female,Divorced,Research & Development,Manufacturing Director,11089,Yes,4,9,Yes
+EMP114,47,Male,Married,Sales,Sales Executive,6554,No,1,11,No
+EMP115,34,Male,Married,Sales,Sales Representative,6054,No,2,14,No
+EMP116,53,Male,Single,Research & Development,Manufacturing Director,12937,Yes,1,0,Yes
+EMP117,53,Male,Married,Research & Development,Healthcare Representative,6142,No,3,9,No
+EMP118,25,Female,Married,Research & Development,Manufacturing Director,10722,No,4,5,No
+EMP119,51,Female,Married,Research & Development,Healthcare Representative,7178,No,4,1,Yes
+EMP120,58,Male,Married,Research & Development,Healthcare Representative,6835,No,3,12,No
+EMP121,44,Male,Married,Research & Development,Research Scientist,5952,No,4,2,No
+EMP122,36,Male,Married,Sales,Sales Representative,5387,No,4,13,No
+EMP123,50,Male,Single,Research & Development,Manufacturing Director,12107,No,2,7,No
+EMP124,57,Male,Married,Sales,Sales Executive,7384,No,4,9,No
+EMP125,34,Male,Married,Human Resources,Human Resources,5159,No,3,13,No
+EMP126,53,Male,Divorced,Sales,Sales Representative,6949,No,2,13,No
+EMP127,28,Female,Married,Research & Development,Manufacturing Director,10296,Yes,3,5,Yes
+EMP128,43,Female,Single,Sales,Manager,11721,No,2,2,No
+EMP129,49,Male,Married,Human Resources,Manager,12781,No,3,6,No
+EMP130,23,Male,Married,Research & Development,Manufacturing Director,10153,No,3,3,No
+EMP131,27,Female,Married,Research & Development,Manufacturing Director,11523,No,3,13,No
+EMP132,49,Male,Married,Sales,Sales Executive,6220,No,3,8,No
+EMP133,49,Female,Married,Research & Development,Healthcare Representative,6532,Yes,3,14,No
+EMP134,41,Female,Married,Sales,Sales Executive,6246,Yes,3,4,No
+EMP135,51,Male,Married,Research & Development,Laboratory Technician,5870,Yes,3,2,No
+EMP136,32,Male,Married,Sales,Sales Executive,4179,Yes,3,1,Yes
+EMP137,49,Female,Married,Sales,Sales Executive,5657,No,1,10,No
+EMP138,46,Male,Married,Sales,Sales Representative,6811,No,3,1,Yes
+EMP139,54,Female,Married,Research & Development,Research Scientist,6544,Yes,2,2,Yes
+EMP140,22,Female,Single,Research & Development,Healthcare Representative,5539,No,3,1,Yes
+EMP141,48,Male,Single,Sales,Sales Executive,6057,No,4,13,No
+EMP142,34,Male,Married,Research & Development,Laboratory Technician,5312,No,3,3,No
+EMP143,24,Female,Single,Research & Development,Healthcare Representative,5191,No,3,1,No
+EMP144,27,Male,Single,Research & Development,Laboratory Technician,5663,Yes,4,9,No
+EMP145,29,Male,Married,Research & Development,Laboratory Technician,5850,No,4,8,No
+EMP146,48,Female,Divorced,Research & Development,Manufacturing Director,12944,Yes,4,1,No
+EMP147,30,Male,Divorced,Research & Development,Manufacturing Director,11412,No,4,8,No
+EMP148,58,Female,Married,Sales,Sales Representative,7436,No,1,12,No
+EMP149,54,Female,Married,Sales,Sales Representative,7209,Yes,1,5,Yes
+EMP150,45,Male,Single,Research & Development,Laboratory Technician,5824,No,3,0,No
+EMP151,36,Male,Single,Human Resources,Human Resources,4970,Yes,2,3,No
+EMP152,53,Male,Married,Research & Development,Manufacturing Director,12738,Yes,3,14,No
+EMP153,53,Male,Married,Sales,Sales Executive,6654,No,3,13,No
+EMP154,45,Male,Married,Research & Development,Research Scientist,5873,No,3,0,No
+EMP155,33,Female,Married,Research & Development,Laboratory Technician,5488,No,4,13,No
+EMP156,23,Male,Single,Sales,Manager,10817,No,4,5,No
+EMP157,24,Male,Married,Sales,Manager,10464,No,3,13,No
+EMP158,58,Female,Married,Research & Development,Manufacturing Director,13878,Yes,4,12,No
+EMP159,38,Male,Single,Research & Development,Laboratory Technician,4969,No,3,3,No
+EMP160,23,Female,Married,Sales,Sales Executive,4243,No,4,2,Yes
+EMP161,23,Male,Married,Sales,Sales Representative,3981,No,1,2,Yes
+EMP162,49,Male,Single,Sales,Sales Executive,5486,No,4,8,No
+EMP163,44,Female,Divorced,Research & Development,Research Scientist,5978,No,3,5,No
+EMP164,58,Female,Single,Sales,Sales Representative,7079,No,3,8,No
+EMP165,53,Female,Single,Sales,Sales Executive,7496,No,2,12,No
+EMP166,54,Female,Married,Research & Development,Healthcare Representative,7135,No,3,4,No
+EMP167,22,Female,Married,Sales,Sales Executive,3747,No,2,1,No
+EMP168,40,Male,Single,Research & Development,Healthcare Representative,6627,No,2,7,Yes
+EMP169,23,Male,Married,Sales,Manager,10950,No,3,4,No
+EMP170,47,Female,Married,Sales,Sales Executive,6551,Yes,3,1,No
+EMP171,53,Female,Married,Sales,Sales Representative,6626,Yes,3,3,No
+EMP172,27,Female,Married,Research & Development,Laboratory Technician,4180,No,4,8,No
+EMP173,53,Male,Married,Research & Development,Research Scientist,6553,Yes,3,14,No
+EMP174,25,Male,Married,Research & Development,Manufacturing Director,11044,No,3,3,No
+EMP175,32,Female,Married,Research & Development,Manufacturing Director,12002,Yes,1,12,Yes
+EMP176,38,Male,Married,Research & Development,Healthcare Representative,6311,No,4,11,No
+EMP177,59,Female,Divorced,Sales,Sales Executive,6975,No,3,11,No
+EMP178,45,Female,Single,Sales,Sales Executive,5540,No,4,11,Yes
+EMP179,26,Male,Single,Research & Development,Laboratory Technician,4650,Yes,4,12,No
+EMP180,55,Female,Single,Sales,Sales Executive,6015,No,3,14,No
+EMP181,27,Female,Married,Sales,Manager,10821,No,1,13,No
+EMP182,43,Male,Married,Sales,Sales Executive,5866,Yes,4,3,No
+EMP183,32,Female,Single,Sales,Sales Representative,4826,No,4,1,Yes
+EMP184,37,Male,Single,Sales,Sales Representative,4662,No,2,12,No
+EMP185,54,Female,Single,Research & Development,Laboratory Technician,7076,No,2,11,No
+EMP186,30,Male,Married,Research & Development,Healthcare Representative,4633,No,4,14,No
+EMP187,27,Female,Married,Research & Development,Laboratory Technician,4075,Yes,2,5,Yes
+EMP188,37,Male,Married,Research & Development,Laboratory Technician,4023,No,4,12,No
+EMP189,50,Male,Married,Research & Development,Research Scientist,6486,No,3,10,No
+EMP190,24,Female,Single,Sales,Sales Executive,5306,Yes,1,13,No
+EMP191,41,Male,Single,Research & Development,Healthcare Representative,6610,No,4,1,No
+EMP192,57,Male,Married,Research & Development,Research Scientist,6831,No,3,11,No
+EMP193,40,Female,Divorced,Sales,Sales Executive,5398,Yes,3,6,No
+EMP194,47,Female,Single,Research & Development,Laboratory Technician,6494,No,1,2,No
+EMP195,24,Male,Married,Research & Development,Manufacturing Director,9920,No,1,14,No
+EMP196,40,Female,Married,Research & Development,Research Scientist,5850,No,3,2,No
+EMP197,41,Male,Married,Research & Development,Manufacturing Director,12163,No,3,4,No
+EMP198,53,Male,Married,Sales,Sales Executive,7353,No,3,2,No
+EMP199,28,Male,Married,Human Resources,Human Resources,4689,No,4,1,No
+EMP200,54,Female,Married,Research & Development,Healthcare Representative,6718,No,3,9,No
+EMP201,39,Female,Married,Sales,Manager,11181,No,2,8,No
+EMP202,22,Female,Married,Research & Development,Laboratory Technician,3846,No,3,1,No
+EMP203,32,Female,Divorced,Research & Development,Research Scientist,4946,No,4,13,No
+EMP204,49,Male,Married,Research & Development,Research Scientist,6603,No,4,10,No
+EMP205,46,Male,Single,Research & Development,Research Scientist,6636,No,3,1,No
+EMP206,44,Male,Married,Research & Development,Manufacturing Director,11618,No,2,12,No
+EMP207,52,Male,Divorced,Sales,Sales Representative,7406,No,2,14,Yes
+EMP208,51,Male,Married,Sales,Manager,12444,No,4,7,No
+EMP209,56,Female,Married,Research & Development,Healthcare Representative,6969,No,4,14,No
+EMP210,28,Male,Divorced,Research & Development,Manufacturing Director,10366,Yes,3,8,No
+EMP211,37,Male,Divorced,Sales,Sales Representative,4247,Yes,4,6,No
+EMP212,47,Male,Single,Sales,Manager,12702,No,4,2,No
+EMP213,23,Female,Married,Research & Development,Laboratory Technician,4708,No,1,8,No
+EMP214,22,Female,Married,Human Resources,Human Resources,4119,No,3,2,No
+EMP215,33,Male,Single,Research & Development,Laboratory Technician,5173,No,2,4,No
+EMP216,26,Male,Divorced,Sales,Sales Executive,4837,No,2,8,Yes
+EMP217,58,Female,Single,Sales,Manager,12358,No,4,11,No
+EMP218,53,Male,Single,Sales,Manager,12475,No,3,13,No
+EMP219,30,Female,Married,Research & Development,Healthcare Representative,5297,No,3,13,No
+EMP220,56,Female,Single,Sales,Sales Executive,6352,No,2,2,Yes
+EMP221,40,Male,Married,Research & Development,Manufacturing Director,11846,No,2,6,Yes
+EMP222,37,Male,Married,Sales,Sales Representative,4781,No,2,11,No
+EMP223,24,Female,Married,Research & Development,Research Scientist,4653,Yes,2,0,No
+EMP224,41,Male,Single,Research & Development,Manufacturing Director,11762,Yes,3,3,No
+EMP225,45,Male,Married,Research & Development,Research Scientist,5292,Yes,2,3,No
+EMP226,54,Female,Married,Sales,Sales Representative,7402,No,3,6,No
+EMP227,45,Female,Single,Sales,Sales Representative,5732,No,1,7,No
+EMP228,32,Female,Married,Sales,Manager,10654,No,1,0,Yes
+EMP229,29,Female,Single,Research & Development,Laboratory Technician,4920,No,2,4,No
+EMP230,57,Male,Married,Research & Development,Research Scientist,7634,Yes,3,6,No
+EMP231,59,Male,Married,Research & Development,Laboratory Technician,6712,No,3,11,Yes
+EMP232,41,Female,Single,Research & Development,Research Scientist,5810,Yes,3,3,Yes
+EMP233,56,Male,Married,Research & Development,Research Scientist,7194,No,3,12,No
+EMP234,46,Male,Married,Sales,Sales Representative,6526,Yes,4,3,Yes
+EMP235,56,Female,Married,Research & Development,Manufacturing Director,13068,No,1,3,Yes
+EMP236,46,Male,Married,Research & Development,Healthcare Representative,5996,Yes,2,11,Yes
+EMP237,50,Male,Divorced,Research & Development,Laboratory Technician,6086,No,4,5,No
+EMP238,39,Male,Married,Research & Development,Research Scientist,5663,No,3,6,No
+EMP239,39,Male,Single,Sales,Sales Executive,5083,No,2,1,No
+EMP240,23,Male,Married,Sales,Sales Representative,2879,No,4,14,No
+EMP241,56,Male,Single,Research & Development,Manufacturing Director,13198,No,4,4,No
+EMP242,37,Male,Single,Sales,Manager,11911,No,2,3,No
+EMP243,57,Female,Single,Research & Development,Research Scientist,5878,No,3,14,No
+EMP244,54,Female,Married,Sales,Sales Executive,6315,No,3,13,No
+EMP245,25,Female,Married,Research & Development,Manufacturing Director,10809,No,3,12,No
+EMP246,54,Female,Married,Sales,Sales Representative,7848,No,3,2,No
+EMP247,35,Male,Divorced,Research & Development,Research Scientist,5310,Yes,2,6,No
+EMP248,42,Male,Single,Research & Development,Research Scientist,5495,No,3,10,No
+EMP249,41,Female,Divorced,Sales,Manager,11688,No,3,11,No
+EMP250,29,Male,Married,Research & Development,Laboratory Technician,5507,No,4,5,No
