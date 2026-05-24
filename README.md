@@ -440,9 +440,6 @@ Dashboard Design
 ---
 ---
 
-# License
-
-This project is licensed under the MIT License.
 
 # Key Performance Indicators (KPIs)
 
