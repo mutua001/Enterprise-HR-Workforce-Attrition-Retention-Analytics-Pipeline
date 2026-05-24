@@ -18,7 +18,7 @@ The goal is to help organizations transition from reactive HR reporting to proac
 
 # Dashboard Preview
 
-![HR Dashboard](images/dashboard_overview.png)
+![HR Dashboard](https://github.com/mutua001/Enterprise-HR-Workforce-Attrition-Retention-Analytics-Pipeline/blob/main/Overview.png)
 
 ---
 
