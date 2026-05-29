@@ -707,7 +707,7 @@ Based on the data analysis, here are the priority areas for investment:
 
 # Author
 
-## Peter Mutua
+## Peter Kakula
 
 Data Analyst | Business Intelligence Analyst | HR Analytics Enthusiast
 
